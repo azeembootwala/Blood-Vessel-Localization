@@ -5,9 +5,10 @@
 The aim of this project is to train deep neural networks to identify locations of carotid arteries in urtrasound images using bounding boxes. 
 
 ### Network Architecture
-For this project **VGG** 
+For this project [**VGG**](https://arxiv.org/pdf/1409.1556.pdf) Network architecture was refactored to add more specific layers to suit localization tasks.The Neural network was trained from scratch.
 
-The script CNN_vessel is the main script where the neural network is designed in a class based format.It will train your model , test it and also save the model in the results folder. 
+### File Descriptions
+The script `CNN_vessel.py` is the main script where the neural network is designed in a class based format.It will train your model , test it and also save the model in the results folder. 
 
 The script us_datagenerator loads the date from the disk, preprocesses it and sends it to the CNN_vessel in batches. 
 
