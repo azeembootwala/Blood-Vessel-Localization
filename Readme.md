@@ -21,7 +21,7 @@ The script `scroll.py`, just scrolls the images in the results folder and runs a
 The scripts `cnn_exp.py` is just another iteration of the main file, where I implemented batch normalization and dropout. You can skip that if you want as the results were not upto the mark after applying batch norm.
 
 ### References & report
-A detailed description of the implementation can be found [here](https://docs.google.com/document/d/15fLfXJb9nE_jIsSSC-Qiw_ol2DWNeRGkoaR4VKYlbS4/edit?usp=sharing). A comprehensive list of the references are present within the report itself. 
+A detailed description of the implementation can be found [here]  A comprehensive list of the references are present within the report itself. 
 
 
 
