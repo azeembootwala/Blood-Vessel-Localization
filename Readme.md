@@ -14,8 +14,7 @@ The script `CNN_vessel.py` is the main script where the neural network is design
 
 The script `us_datagenerator.py` loads the date from the disk, preprocesses it and sends it to the CNN_vessel in batches. 
 
-**Note:-** Within the scripts , you would be required to add the paths of files you want to store, like the results, or your saved model.Currently the locations are filled by dummy paths. 
-Please note, saved models cannot be shared or uploaded due to non-disclosures.  
+**Note:- Within the scripts , you would be required to add the paths of files you want to store, like the results, or your saved model.Currently the locations are filled by dummy paths. Please note, saved models cannot be shared or uploaded due to non-disclosures**  
 
 The script `utilities.py`, has small helper functions needeed to run the main script file `CNN_vessel.py`.
 
