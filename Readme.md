@@ -22,7 +22,7 @@ The scripts `cnn_exp.py` is just another iteration of the main file, where I imp
 
 
 ## Results
-![prediction](./results/prediction/1.png=100x100)
+![prediction](./results/prediction/1.png =100x100)
 ![prediction-2](./results/prediction/2.png)
 ![prediction-3](./results/prediction/3.png)
  
