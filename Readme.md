@@ -21,7 +21,7 @@ The script `scroll.py`, just scrolls the images in the results folder and runs a
 The scripts `cnn_exp.py` is just another iteration of the main file, where I implemented batch normalization and dropout. You can skip that if you want as the results were not upto the mark after applying batch norm.
 
 ### References & report
-A detailed description of the implementation can be found [here]  A comprehensive list of the references are present within the report itself. 
+A detailed description of the implementation can be found [here](https://github.com/azeembootwala/Blood-Vessel-Localization/blob/master/project_report.pdf)  A comprehensive list of the references are present within the report itself. 
 
 
 
