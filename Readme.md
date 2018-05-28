@@ -20,9 +20,10 @@ The script `utilities.py`, has small helper functions needeed to run the main sc
 The script `scroll.py`, just scrolls the images in the results folder and runs a slide show for presentations. So nothing important there. 
 The scripts `cnn_exp.py` is just another iteration of the main file, where I implemented batch normalization and dropout. You can skip that if you want as the results were not upto the mark after applying batch norm.
 
+<img src="./results/prediction/1.png" alt="prediction-1" style="width: 100px;"/>
 
 ## Results
-![prediction-1](./results/prediction/1.png)=20x20
+![prediction-1](1.png)
 ![prediction-2](./results/prediction/2.png)
 ![prediction-3](./results/prediction/3.png)
  
