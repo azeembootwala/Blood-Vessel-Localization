@@ -22,7 +22,9 @@ The scripts `cnn_exp.py` is just another iteration of the main file, where I imp
 
 
 ## Results
-![ground-truth](./results/ground_truth/1.png)
+![prediction](./results/prediction/1.png)
+![prediction-2](./results/prediction/2.png)
+![prediction-3](./results/prediction/3.png)
  
 
 
